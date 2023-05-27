@@ -5,9 +5,9 @@ https://github.com/SrivastavaArjit/Test_Checklist/assets/82926673/f9b17579-9cf3-
 * Created an interactive to-do list application using React, resulting in faster page load times by 30% and better crawling and indexing of websites by search engines.
 * Installed a node module called json-server to create a full fake REST API with zero coding in less than 30 seconds.
 
-### npm run server
+### `npm run server`
 
-Runs the server in the background on [http://localhost:5000]
+Runs the server in the background on `http://localhost:5000`.
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
